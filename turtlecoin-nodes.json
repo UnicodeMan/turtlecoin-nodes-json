@@ -377,6 +377,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "High-end node for lulz",
+      "url": "91.205.175.190",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
